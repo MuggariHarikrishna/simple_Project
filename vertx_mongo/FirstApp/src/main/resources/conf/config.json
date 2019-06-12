@@ -1,0 +1,6 @@
+{
+   "http.port" : 3000,
+   "mongodb.host":"localhost",
+   "mongodb.port":27017,
+   "mongodb.databasename":"Test"
+}
